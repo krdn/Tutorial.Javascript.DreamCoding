@@ -3,7 +3,7 @@
 // 생활코딩 async & await
 
 function timer(ms) {
-    return new Promise(resolve => setTimeout(resolve(ms), ms));
+    return new Promise((resolve, reject) => setTimeout(resolve(ms), ms));
 }
 
 // timer(1000).then((time) => console.log('timer: ' + time));
