@@ -9,6 +9,15 @@ Javascript 학습 - 6개월이상 사용하지 않았을때 다시 한번 보아
 
 
 
+
+### Callback 함수의 정의 
+
+JavaScript에서 콜백 함수(callback function)는 다른 함수에 인자로 전달되어, 해당 함수가 실행을 마쳤을 때 호출되는 함수를 말합니다. 
+
+콜백 함수는 주로 비동기적인 작업에서 사용되며, 이벤트 처리, 타이머 함수, HTTP 요청 등에서 많이 활용됩니다.
+
+
+
 ![image](https://github.com/krdn/Tutorial.Javascript.DreamCoding/assets/5511718/ad61e213-b2f9-4864-b095-1d5c25593f22)
 
 
