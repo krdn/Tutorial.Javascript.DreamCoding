@@ -8,6 +8,8 @@ Javascript 학습 - 6개월이상 사용하지 않았을때 다시 한번 보아
 
 
 
+## 생활코딩 강좌
+
 https://www.youtube.com/playlist?list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI
 
 - **[JavaScript - callback](https://www.youtube.com/watch?v=TAyLeIj1hMc&list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI&index=1&pp=iAQB)**
