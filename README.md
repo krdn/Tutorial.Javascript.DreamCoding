@@ -8,6 +8,10 @@ Javascript 학습 - 6개월이상 사용하지 않았을때 다시 한번 보아
 
 
 
+
+![image](https://github.com/krdn/Tutorial.Javascript.DreamCoding/assets/5511718/ad61e213-b2f9-4864-b095-1d5c25593f22)
+
+
 ## 생활코딩 강좌
 
 https://www.youtube.com/playlist?list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI
